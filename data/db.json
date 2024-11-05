@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": "2",
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": "095b",
+      "name": "bermuda",
+      "price": "15"
+    },
+    {
+      "id": "e01e",
+      "name": "bermuda",
+      "price": "15"
+    },
+    {
+      "id": "b429",
+      "name": "bermuda",
+      "price": "15"
+    },
+    {
+      "id": "21b4",
+      "name": "calça preta",
+      "price": "35"
+    },
+    {
+      "id": "3641",
+      "name": "calça rosa",
+      "price": "44"
+    }
+  ]
+}
